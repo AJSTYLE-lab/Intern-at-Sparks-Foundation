@@ -37,6 +37,10 @@ https://ourworldindata.org/coronavirus
 ![Slide#2](https://raw.githubusercontent.com/AJSTYLE-lab/Intern-at-Sparks-Foundation/main/TIme%20Series%20AnalysisCOVID-19/SLide%232.png
 )
 
+![Slide#3](https://raw.githubusercontent.com/AJSTYLE-lab/Intern-at-Sparks-Foundation/main/TIme%20Series%20AnalysisCOVID-19/Slide%233.png
+)
+
+![Slide#4](https://raw.githubusercontent.com/AJSTYLE-lab/Intern-at-Sparks-Foundation/main/TIme%20Series%20AnalysisCOVID-19/Slide%234.png)
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://datascienceportfol.io/Mohammad_Ahmed_Javed)
