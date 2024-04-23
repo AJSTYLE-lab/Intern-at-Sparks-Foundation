@@ -66,8 +66,9 @@ https://raw.githubusercontent.com/AJSTYLE-lab/Intern-at-Sparks-Foundation/main/E
 )
 ![Slide#4](https://raw.githubusercontent.com/AJSTYLE-lab/Intern-at-Sparks-Foundation/main/EDA-Sports/ss%234.png
 )
-
-
+Developed User Interactive Dashboard Using Python Here Screenshots:
+![Slide#4](https://raw.githubusercontent.com/AJSTYLE-lab/Intern-at-Sparks-Foundation/main/EDA-Sports/ss%236.png)
+![Slide#4](https://raw.githubusercontent.com/AJSTYLE-lab/Intern-at-Sparks-Foundation/main/EDA-Sports/ss%237.png)
 
 
 ## 🔗 Links
