@@ -44,6 +44,8 @@ https://ourworldindata.org/coronavirus
 
 # Project#2: EDA - Sports
 
+Role: Sports Analystics
+
 
 
 ![Logo](https://raw.githubusercontent.com/AJSTYLE-lab/Intern-at-Sparks-Foundation/main/EDA-Sports/TATA_IPL_2024_Logo.png
@@ -52,6 +54,19 @@ https://ourworldindata.org/coronavirus
 ## Data Source
 
 https://raw.githubusercontent.com/AJSTYLE-lab/Intern-at-Sparks-Foundation/main/EDA-Sports/deliveries.csv
+
+
+
+## Screenshots
+![Slide#1](https://raw.githubusercontent.com/AJSTYLE-lab/Intern-at-Sparks-Foundation/main/EDA-Sports/ss%231.png)
+![Slide#2](https://raw.githubusercontent.com/AJSTYLE-lab/Intern-at-Sparks-Foundation/main/EDA-Sports/ss%232.png)
+![Slide#3](https://raw.githubusercontent.com/AJSTYLE-lab/Intern-at-Sparks-Foundation/main/EDA-Sports/ss%233.png
+)
+![Slide#5](https://raw.githubusercontent.com/AJSTYLE-lab/Intern-at-Sparks-Foundation/main/EDA-Sports/SS%235.png
+)
+![Slide#4](https://raw.githubusercontent.com/AJSTYLE-lab/Intern-at-Sparks-Foundation/main/EDA-Sports/ss%234.png
+)
+
 
 
 
