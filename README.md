@@ -24,6 +24,14 @@
 - Time Series Analysis Part-I
 - Time Series Analysis Part-I
 
+
+
 ## Data Source
 
 https://ourworldindata.org/coronavirus
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://datascienceportfol.io/Mohammad_Ahmed_Javed)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/%20muhammad-ahmed-javedb33900247)
+
