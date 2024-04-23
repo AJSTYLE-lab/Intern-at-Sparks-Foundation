@@ -42,6 +42,19 @@ https://ourworldindata.org/coronavirus
 
 ![Slide#4](https://raw.githubusercontent.com/AJSTYLE-lab/Intern-at-Sparks-Foundation/main/TIme%20Series%20AnalysisCOVID-19/Slide%234.png)
 
+# Project#2: EDA - Sports
+
+
+
+![Logo](https://raw.githubusercontent.com/AJSTYLE-lab/Intern-at-Sparks-Foundation/main/EDA-Sports/TATA_IPL_2024_Logo.png
+)
+
+## Data Source
+
+https://raw.githubusercontent.com/AJSTYLE-lab/Intern-at-Sparks-Foundation/main/EDA-Sports/deliveries.csv
+
+
+
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://datascienceportfol.io/Mohammad_Ahmed_Javed)
 
